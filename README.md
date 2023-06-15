@@ -17,7 +17,7 @@ The SciML Hackathon will run for 1 day.
 
 ## Prerequists 
 
-##  ✅ Sign Up to [[Weights & Biases](https://wandb.ai/signup) & [Kaggle](https://www.kaggle.com/)
+##  ✅ Sign Up to [Weights & Biases](https://wandb.ai/signup) & [Kaggle](https://www.kaggle.com/)
 ## If intending to use own laptop please follow [Instrution for self set up]()
 ## Watch  Martin Rodgers AI Sea Ice detection video 
 
