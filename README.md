@@ -11,3 +11,14 @@ Repo for the June 2023 Hackathon
 
 * [SciML-Hackathon]()
 * Tutorial Notebooks
+* Environment files
+* Binder Quicklook
+
+# LICENSES
+
+Code: MIT 
+Data: Creative Commons (Attribution) Share-Alike licence (CC BY-SA)
+
+Acknoledgements:
+
+Sam Bancroft, SciML-Leeds team, Martin Rodges (BAS)
