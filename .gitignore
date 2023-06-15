@@ -1,0 +1,8 @@
+leeds_hackathon/
+leeds-sciml-seaice.zip
+*~
+.ipynb_checkpoints/
+sciml/
+wandb/
+submission.csv
+model/

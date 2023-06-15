@@ -1,0 +1,17 @@
+name: SciML_Hackathon
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - keras
+  - pandas
+  - jupyter
+  - tensorflow
+  - matplotlib
+  - tifffile
+  - wandb
+  - tornado=6.1
+  - scikit-learn
+  - kaggle
