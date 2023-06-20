@@ -3,7 +3,9 @@
 [![LIFD_ENV_ML_NOTEBOOKS](https://github.com/cemac/Sci-ML_hackathon_2023/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/cemac/Sci-ML_hackathon_2023/actions/workflows/python-package-conda.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cemac/Sci-ML_hackathon_2023/HEAD?labpath=Binder.ipynb)
 
-# Sci-ML_hackathon_2023
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QTjEt8aO3KOqy0ejYtobs53ppiXwWWzO)
+
+# SciML Leeds Sea Ice Hackathon_2023
 
 Repo for the June 2023 Hackathon
 
@@ -19,6 +21,6 @@ Repo for the June 2023 Hackathon
 Code: MIT 
 Data: Creative Commons (Attribution) Share-Alike licence (CC BY-SA)
 
-Acknoledgements:
+Acknowledgements:
 
-Sam Bancroft, SciML-Leeds team, Martin Rodges (BAS)
+Sam Bancroft, SciML Leeds team, Martin Rogers (BAS)
