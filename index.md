@@ -19,7 +19,7 @@ The SciML Hackathon will run for an afternoon on the 30th June 2023 as hybrid ev
 ## If intending to use own laptop please follow [Instruction for self set up](StandAlone.md)
 ## Watch  Martin Rodgers AI Sea Ice detection video (Embedded Below)
 
-[](https://www.youtube-nocookie.com/embed/U4amljFGkiw)
+![](https://www.youtube-nocookie.com/embed/U4amljFGkiw)
 
 # Data
 
@@ -43,6 +43,7 @@ In the Introductory Notebook provided we take you through building a UNet Model 
 # Licence information
 
 Code: MIT
+
 Data: Creative Commons (Attribution) Share-Alike licence (CC BY-SA)
 
 ## Acknowledgements
