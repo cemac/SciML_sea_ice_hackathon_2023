@@ -1,9 +1,9 @@
 # Stand Alone Notebook
 
-For those wishing to run their own notebook server please follow the following instructions
+For those wishing to run their own notebook server please follow the following instructions. Having done steps 1-7 before the hackathon will have you set up and good to go in the hackathon.
 
 1. clone [Sci-ML_hackathon_2023 GitHub Repository](https://github.com/cemac/Sci-ML_hackathon_2023) where you wish to run the notebook server
-2. Download [anaconda ]()
+2. Download [anaconda ](https://www.anaconda.com/download/)
 3. `conda env install -f environment.yml` or `conda env install -f environment-gpu.yml` depending on hardware available
 4. Activate environment
 5. Launch the notebook `jupyter-notebook`
