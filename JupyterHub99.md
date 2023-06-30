@@ -4,6 +4,6 @@ This the Leeds university run jupyter hub for environmental sciences teaching. T
 
 1. Navigate to: [https://see-jupyter99.leeds.ac.uk/sciml](https://see-jupyter99.leeds.ac.uk/sciml)
 2. Sign in with your leeds credentials
-3. Open Terminal (screen shots Below)
-4. enter `cp -r /storage/earth_data/sciml/tutorial .`
+3. Open Terminal (screen shots Below) ![shows terminal opening](assets/jbubt0.png)
+4. enter `cp -r /storage/earth_data/sciml/SciML_sea_ice_hackathon_2023/ .` ![shows command](jhubt1.png)
 5. Close window and open the tutorial folder and open the `Introduction_JupyterHub99.ipynb`
