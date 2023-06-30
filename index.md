@@ -24,7 +24,7 @@ The SciML Hackathon will run for an afternoon on the 30th June 2023 as hybrid ev
 
 # Data
 
-The data we'll be using is nearly 5000 tiff files of satellite images, this is about 3GB data and has been split into a training and test dataset. The data is available on JuypterHub 99, Downloadable from the [SciML kaggle competition site](https://www.kaggle.com/datasets/spiruel/leeds-sciml-seaice) and via [hugging face](https://huggingface.co/datasets/cemachelen/Leeds_SciML_SeaIce_2023).
+The data we'll be using is nearly 5000 tiff files of satellite images, this is about 3GB data and has been split into a training and test dataset. The data is available on JuypterHub 99, Downloadable from the [SciML kaggle competition site](https://www.kaggle.com/competitions/leeds-sciml-sea-ice-segmentation) and via [hugging face](https://huggingface.co/datasets/cemachelen/Leeds_SciML_SeaIce_2023).
 
 **Please follow the instructions in the Introductory Notebook**
 
